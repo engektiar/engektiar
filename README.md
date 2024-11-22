@@ -1,7 +1,7 @@
 ##Hi there 👋,  I'm Md Ektiar Hossen
 ### Web Developer
  
-<img src="https://drive.google.com/uc?export=view&id=1mnmTp4eFjXGmDjah498PNTu2C884E56t" alt="Google Drive Image">
+<img src="https://drive.google.com/file/d/1mnmTp4eFjXGmDjah498PNTu2C884E56t/view">
 
 At Md. Ektiar Hossen Web Development, we craft innovative and user-friendly web solutions. With expertise in modern technologies like React, Next.js, Laravel, and more, we specialize in building responsive websites and scalable applications tailored to your needs.
 
