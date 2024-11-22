@@ -1,7 +1,7 @@
 ##Hi there 👋,  I'm Md Ektiar Hossen
 ### Web Developer
-![Web Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://drive.google.com/file/d/1mnmTp4eFjXGmDjah498PNTu2C884E56t/view?usp=sharing)
-
+ 
+<img src="https://drive.google.com/file/d/1mnmTp4eFjXGmDjah498PNTu2C884E56t/view?usp=sharing" />
 At Md. Ektiar Hossen Web Development, we craft innovative and user-friendly web solutions. With expertise in modern technologies like React, Next.js, Laravel, and more, we specialize in building responsive websites and scalable applications tailored to your needs.
 
 Our mission is to empower businesses with stunning, secure, and high-performance digital experiences. Let’s turn your ideas into reality and create something extraordinary together!
